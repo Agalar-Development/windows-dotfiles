@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -Command "Start-Process 'c:/Users/mert/AppData/Local/Programs/Python/PYTHON310/python.exe' -ArgumentList 'C:/Users/mert/.config/yasb/yasb_glazewm_auto_hide.py' -WindowStyle Hidden"
