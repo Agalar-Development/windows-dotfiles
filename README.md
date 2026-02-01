@@ -2,6 +2,16 @@
 
 Bu repository, Windows ortamı için Tiling Window Manager (GlazeWM) ve Status Bar (YASB) yapılandırmalarını içerir.
 
+## Önizleme (Previews)
+
+| **Masaüstü (Desktop)** | **Pencere Düzeni (Tiling)** |
+|:---:|:---:|
+| ![Desktop](screenshots/desktop.png) | ![Tiling](screenshots/tiling.png) |
+
+| **Medya Oynatıcı** | **Hava Durumu** | **Takvim** |
+|:---:|:---:|:---:|
+| ![Media](screenshots/media.png) | ![Weather](screenshots/weather.png) | ![Calendar](screenshots/calendar.png) |
+
 ## Gereksinimler (Requirements)
 
 Aşağıdaki araçların kurulu olması gerekmektedir:
